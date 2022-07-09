@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:wght@700&display=swap");
+/* font-family: 'Gentium Book Plus', serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200&display=swap');
+
+.main-background {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url(images/main-background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.first-sec {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  background-image: url(images/1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.second-sec {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-image: url(images/2.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.contact-sec {
+  padding-top: 8rem;
+  padding-bottom: 6rem;
+  background-image: url(images/3.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.text-dark {
+  background-color: rgb(0, 174, 255);
+}
+
+.text-white {
+  font-family: "Gentium Book Plus", serif;
+}
